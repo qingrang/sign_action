@@ -34,7 +34,7 @@
 
 复制https://github.com/MayoBlueSky/My-Actions/blob/master/.github/workflows/repo_sync.yml 里面的代  码
 
-复制完毕后直接点击右上角的`Start commit`后直接`Commit new file`即可
+复制完毕后直接点击右上角的`Start commit`后直接`Commit new file`即   可
 
 <img src="icon/create_new_sync_yaml.png" alt="create_new_sync_yaml" style="zoom: 67%;" />
 
